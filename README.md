@@ -6,7 +6,5 @@ The feedback and bugs generated from this playtest can be found in the [Issues](
 
 ![QA Central Test Description](https://github.com/user-attachments/assets/9af285ed-11a9-4ab6-8fba-bccf6780bd17)
 
-![QA Central Test Description](https://github.com/user-attachments/assets/7afa1426-8d75-48c1-8c4a-103e3a4cdc95)
-
 
 ![Test Details](https://github.com/user-attachments/assets/183b558a-6c2d-489a-893d-ce17a762994a)
