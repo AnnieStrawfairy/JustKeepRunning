@@ -4,7 +4,9 @@ The below screenshots are the setup in the [QA Central Discord](https://discord.
 
 The feedback and bugs generated from this playtest can be found in the [Issues](https://github.com/AnnieStrawfairy/JustKeepRunning/issues) section with the "Playtest 1" Label.
 
+Screenshot of Test Announcement in QA Central
 ![QA Central Test Description](https://github.com/user-attachments/assets/9af285ed-11a9-4ab6-8fba-bccf6780bd17)
 
 
+Tester Directions for the playtest in the Discord Thread 
 ![Test Details](https://github.com/user-attachments/assets/183b558a-6c2d-489a-893d-ce17a762994a)
